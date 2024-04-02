@@ -65,3 +65,25 @@ The rules for how each statement is constructed in both human and computer langu
 
 ## Variables
 These are used to temporarily store changeable values in programming code.
+
+# Terms
+
+## Expression
+A combination of numbers, symbols, or other values that produce a result when evaluated.
+
+## Data Types
+Classes of data (e.g., string, int, float, Boolean, etc.), which include the properties and behaviors of instances of the data type (variables).
+
+## Variable
+An instance of a data type class, represented by a unique name within the code, that stores changeable values of the specific data type.
+
+## Implicit Conversion
+When the Python interpreter automatically converts one data type to another.
+
+## Explicit Conversion
+When code is written to manually convert one data type to another using a data type conversion function:
+
+- `str()`: Converts a value (often numeric) to a string data type.
+- `int()`: Converts a value (usually a float) to an integer data type.
+- `float()`: Converts a value (usually an integer) to a float data type.
+
