@@ -1,0 +1,20 @@
+numbers=[56,18,10,45,7]
+name=["ritik", "shail", "aman", "vijay", "kabir"]
+mix_list=[3,"pratik",True,9.6]
+#print(mix_list)
+#print(numbers)
+#print(name)
+#print(numbers[1])
+#print(numbers[0::2])
+#numbers.sort()
+#numbers.reverse()
+#print(max(numbers))
+#numbers.append(96)
+#numbers.insert(3,97)
+#numbers.extend([54,76,59,87])
+#numbers[0]=14
+#numbers.remove(56)
+#numbers[1:5]=[77,17,19,83]
+#numbers.pop()
+print(numbers.pop())
+print(numbers)
