@@ -58,5 +58,5 @@ A placeholder statement which is used when the syntax requires a statement, but 
 The repeated application of the same procedure to a smaller problem.
 
 ### While Loop
-This is used when a segment of code needs to execute repeatedly while a condition is true
+This is used when a segment of code needs to execute repeatedly while a condition is true.
 
