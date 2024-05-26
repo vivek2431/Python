@@ -43,5 +43,5 @@ print("Loop ended.")
 2
 3
 4
-Loop ended.
+Loop ended
 ```
