@@ -60,3 +60,18 @@ The repeated application of the same procedure to a smaller problem.
 ### While Loop
 This is used when a segment of code needs to execute repeatedly while a condition is true.
 
+### Common sequence operations
+Lists and tuples are both sequences and they share a number of sequence operations. The following common sequence operations are used by both lists and tuples:
+
+#### len(sequence)  Returns the length of the sequence.
+
+#### for element in sequence - Iterates over each element in the sequence.
+
+#### if element in sequence - Checks whether the element is part of the sequence.
+
+#### sequence[x] - Accesses the element at index [x] of the sequence, starting at zero
+
+#### sequence[x:y] - Accesses a slice starting at index [x], ending at index [y-1]. If [x] is omitted, the index will start at 0 by default. If [y] is omitted, the len(sequence) will set the ending index position by default.
+
+for index, element in enumerate(sequence) - Iterates over both the indices and the elements in the sequence at the same time.
+
