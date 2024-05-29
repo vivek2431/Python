@@ -87,3 +87,6 @@ When code is written to manually convert one data type to another using a data t
 - `int()`: Converts a value (usually a float) to an integer data type.
 - `float()`: Converts a value (usually an integer) to a float data type.
 
+  ![data](https://github.com/vivek2431/Python/assets/137812531/51b03209-1c98-436a-965b-9b768aceb210)
+
+
