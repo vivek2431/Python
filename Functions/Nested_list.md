@@ -1,6 +1,6 @@
 # Nested Lists in Python
 
-In Python, a nested list is a list that contains other lists as its elements. These inner lists can themselves contain other lists, creating a multi-dimensional 
+In Python, a nested list is a list that contains other lists as its elements. These inner lists can themselves contain other lists, creating a multi-dimensional
 structure. Nested lists are useful for representing data in a structured way, such as matrices or tables.
 
 ## Example
